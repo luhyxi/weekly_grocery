@@ -1,0 +1,38 @@
+{
+    "Spices": [
+      "Onion",
+      "Garlic"
+    ],
+    "Fruits": [
+      "Apples",
+      "Banana",
+      "Mango",
+      "Pear",
+      "Kiwi"
+    ],
+    "Vegetables": [
+      "Broccoli",
+      "Eggplant",
+      "Cabbage",
+      "Cucumber",
+      "Tomato",
+      "Carrot"
+    ],
+    "LunchCarbs": [
+      "Potatoes",
+      "SweetPotatoes",
+      "Rice",
+      "ChickPea",
+      "Pasta",
+      "Aipim"
+    ],
+    "BrunchCarbs": [
+      "Tapioca",
+      "Oatmeal"
+    ],
+    "Protein": [
+      "ChickenBreast",
+      "GroundBeef",
+      "Eggs"
+    ]
+}
